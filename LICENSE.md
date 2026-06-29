@@ -1,4 +1,4 @@
-# 
+# Ultimate Audacity filters for Mac OS | Lightweight Audacity filters for PC Windows. Featuring motion-graphics and plugin-support — optimized for maximum performance on every platform.
 
 
 
